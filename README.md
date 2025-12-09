@@ -22,11 +22,7 @@
 ---
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ss-vip&theme=onedark&no-bg=true&row=1" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ss-vip">
-	  <img src="https://img.shields.io/github/followers/ss-vip.svg?style=social" alt="GitHub">
+	  <img src="https://img.shields.io/github/followers/ss-vip.svg?style=social" alt="Hank's GitHub">
   </a>
 </p>
